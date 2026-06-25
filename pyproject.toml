@@ -20,8 +20,8 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/sangonomiya249/nonebot-plugin-speakrank-baize"
-Repository = "https://github.com/sangonomiya249/nonebot-plugin-speakrank-baize"
+Homepage = "https://github.com/sangonomiya249/nonebot_plugin_speakrank_baize"
+Repository = "https://github.com/sangonomiya249/nonebot_plugin_speakrank_baize"
 
 [project.entry-points."nonebot2.plugin"]
 nonebot_plugin_speakrank_baize = "nonebot_plugin_speakrank_baize:__plugin_meta__"
