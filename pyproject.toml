@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "nonebot-plugin-speakrank-baize"
+name = "nonebot_plugin_speakrank_baize"
 version = "1.0.0"
 description = "NoneBot2 群聊发言活跃统计插件，自动记录群消息并生成排行榜卡片图"
 license = "MIT"
