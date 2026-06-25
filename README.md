@@ -14,11 +14,11 @@
 
 ### 发言排行榜卡片
 
-![排行卡片](https://raw.githubusercontent.com/sangonomiya249/nonebot_plugin_speakrank_baize/main/screenshots/rank.png)
+<img src="https://raw.githubusercontent.com/sangonomiya249/nonebot_plugin_speakrank_baize/main/screenshots/rank.png" width="400" alt="排行卡片">
 
 ### 活跃趋势折线图
 
-![活跃趋势](https://raw.githubusercontent.com/sangonomiya249/nonebot-plugin-speakrank-baize/main/screenshots/chart.png)
+<img src="https://raw.githubusercontent.com/sangonomiya249/nonebot_plugin_speakrank_baize/main/screenshots/chart.png" width="400" alt="活跃趋势">
 
 ## 命令
 
